@@ -1,6 +1,10 @@
 # Node.JS Progress 
  ---
- **just take your time**
+
+
+<div style="border-left: 4px solid #0104073d; padding: 0 20px;font-size:20px; opacity:0.5;">
+    just take your time
+</div>
 
  ## Levels 
 | Levels  | weeks | start  |
@@ -13,6 +17,10 @@
  ## Checklist
   ---
   - level 0
-    - HTML&CSS  
-    - GIT&GitHub 
-    - Networking 
+    - [x] HTML&CSS  
+    - [x] GIT&GitHub 
+    - [x] Networking 
+  - level 1 
+    - [x] JavScript
+    - [ ] Express.JS
+
